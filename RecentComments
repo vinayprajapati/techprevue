@@ -1,10 +1,10 @@
 <style type="text/css">
-.recent-comment{ margin-bottom:10px; padding-left: 24px; }
-.recent-comment-admin{ background-color: #F4F4F4; }
-.recent-comment-ico{ margin-left:-20px;margin-top:4px;float:left;margin-right:3px;}
+.recent-comment{margin-bottom:10px;padding-left:24px}
+.recent-comment-admin{background:#f4f4f4}
+.recent-comment-ico{margin-left:-20px;margin-top:4px;float:left;margin-right:3px}
 .recent-comment-header{}
-.recent-comment-body{padding-right: 4px; font-size: 95%;}
-.recent-comment-footer{font-size: 85%}
+.recent-comment-body{padding-right:4px;font-size:95%}
+.recent-comment-footer{font-size:85%}
 </style>
 <script type="text/javascript">
 // CONFIG:
